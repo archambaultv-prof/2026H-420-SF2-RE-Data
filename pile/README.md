@@ -1,1 +1,0 @@
-# Dossier pour les exercices sur les piles
